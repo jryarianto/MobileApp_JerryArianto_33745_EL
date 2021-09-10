@@ -1,0 +1,1 @@
+muncul 20 button saat awal mula aplikasi dibuka. kemudian setiap button jika "dipencet" keluar tambahan kata. dan dibawah kanan terdapat button plus yang fungsinya untuk menambahkan 1 button lagi (jika button dipencet maka akan keluar tambahan kata).
