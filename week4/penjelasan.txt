@@ -1,0 +1,5 @@
+4a.
+saat mengirim input di edittext maka akan mempassing data ke dalam aplikasi itu sendiri(eksplisit), sedangkan aplikasi kedua mempassing data ke dalam aplikasi yang lain(implisit).
+
+4b. 
+fragment 1 dan 2 bisa digunakan di 1 class sehingga terlihat pada 1 activity pada umumnya. lalu kenapa dibuat fragment? karena mungkin jika ingin codenya modular supaya bisa dipanggil lagi secara efisien dan efektif
