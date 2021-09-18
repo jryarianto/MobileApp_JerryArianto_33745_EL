@@ -1,0 +1,3 @@
+1. aplikasi mempunyai fitur membuat shape seperti rectangular, oval, line, dan path 
+2. aplikasi mempunyai fitur mengubah warna dengan 3 parameter yaitu red, greed, blue
+3. aplikasi mempunyai fitur clear gambar pada kiri atas berbentu X dan berwarna merah
