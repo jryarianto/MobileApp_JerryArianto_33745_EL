@@ -1,0 +1,12 @@
+
+Kesimpulan week 6
+
+*aplikasi 6A
+-ketika layar diklik akan memunculkan lingkaran hijau yang lama-lama akan membesar, lalu berubah warna
+*aplikasi 6B
+-ketika gambar diklik akan memunculkan gambar-gambar kuda lari yang seakan-akan seperti kuda yang berlari dan dilooping
+kuda tersebut berlari tanpa henti
+*aplikasi 6C
+-ketika tombol halo spring ditekan, maka tombol tersebut akan langsung bergerak ke tengah layar hp dan kembali ke posisi semula dengan sangat cepat
+-ketika tombol halo fling ditekan, maka tombol akan berputar secara vertikal pada poros tombol tersebut dengan efek-efek shadownya
+

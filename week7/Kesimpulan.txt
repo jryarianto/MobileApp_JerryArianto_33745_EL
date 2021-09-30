@@ -1,0 +1,5 @@
+Setelah melakukan pengujian terhadap app dengan menklik tombol foto dan video, maka dapat dituliskan
+catatan dan kesimpulan sebagai berikut :
+- ketika tombol foto di klik, maka app akan mengarahkan ke aplikasi kamera bawaan untuk mengambil gambar dan ditampilkan di app week7
+- ketika tombol video di klik, maka app akan mengarahkan ke aplikasi kamera bawaan untuk mengambil video dan ditampilkan di app week7
+5
